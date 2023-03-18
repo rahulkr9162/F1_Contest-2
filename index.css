@@ -1,0 +1,366 @@
+body{
+    color: white;
+    background-color: #000000;
+    position: relative;
+    left:50px;
+    top : 50px;
+    margin: 0;
+    
+}
+.main-container{
+    background-color: #1F1F1F;
+    width: 95%;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+}
+.one{
+    color: #FFFFFF;
+    width: 159px;
+    height: 72px;
+    position: relative;
+    top: 15px;
+    left: 59px;
+    font-weight: 700;
+    font-size: 48px;
+}
+.search{
+    background-color: #262626;
+    border: 0;
+    width: 597px;
+    height: 53px;
+    position: relative;
+    top: 17px;
+    left: 120px;
+    font-weight: 600;
+    font-size: 24px;
+    border-radius: 15px;
+}
+.container1{
+    position: relative;
+    left: 100px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    background-color: #1F1F1F;
+    width: 597px;
+    height: 53px;
+    border-radius: 15px;
+    position: relative;
+    top: 17px;
+    left: 140px;
+}
+/* .rahul{
+    background-color: #262626;
+    width: 597px;
+    height: 53px;
+    border-radius: 15px;
+    position: relative;
+    top: 17px;
+    left: 120px;
+}  */
+ .button1{
+    color: #FFFFFF;
+    border: 0;
+    background-color: #262626;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    font-weight: 600;
+    font-size: 22px;
+    border-radius: 10px; 
+}
+.button2{
+    color: #FFFFFF;
+    border: 0;
+    background-color: #262626;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    font-weight: 600;
+    font-size: 22px;
+    border-radius: 10px;
+}
+.button3{
+    color: #FFFFFF;
+    border: 0;
+    background-color: #262626;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    font-weight: 600;
+    font-size: 22px;
+    border-radius: 10px;
+}
+.about-us{
+    width: 1500px;
+    height: 608.828px;
+    border-radius: 50px;
+    background-color: #262626;
+    margin: 20px;
+}
+.about-us h1{
+    color: #FFFFFF;
+    position: relative;
+    top: 29px;
+    left: 105px;
+    font-size: 48px;
+    font-weight: 600;
+}
+.container2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin: 20px;
+}
+.two{
+    width: 105px;
+    height: 105px;
+    background-color:#FECB03;
+    border-radius: 50%;
+    position: relative;
+    left: 93px;
+    top: 30px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.image1{
+    width: 53px;
+    height: 47px;
+    align-self: center;
+}
+.img1txt{
+    position: relative;
+    left:250px;
+    top: 50px;
+    width: 846px;
+    height: 53px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.container3{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin: 20px;
+}
+.three{
+    width: 105px;
+    height: 105px;
+    background-color:#FECB03;
+    border-radius: 50%;
+    position: relative;
+    left: 93px;
+    top: 35px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.image2{
+    width: 53px;
+    height: 47px;
+    align-self: center;
+}
+.img2txt{
+    position: relative;
+    left:250px;
+    top: 70px;
+    width: 846px;
+    height: 53px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.container4{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin: 20px;
+}
+.four{
+    width: 105px;
+    height: 105px;
+    background-color:#FECB03;
+    border-radius: 50%;
+    position: relative;
+    left: 93px;
+    top: 40px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.image3{
+    width: 53px;
+    height: 47px;
+    align-self: center;
+}
+.img3txt{
+    position: relative;
+    left:250px;
+    top: 90px;
+    width: 846px;
+    height: 53px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.category{
+    width: 453px;
+    height: 76px;
+    font-weight: 600;
+    font-size: 45px;
+    position: relative;
+    left: 105px;
+}
+.main-div1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+.div1{
+    position: relative;
+    width: 346px;
+    height: 391px;
+    border: solid 3px #262626;
+    border-radius: 10px;
+}
+.div2{
+    position: relative;
+    width: 346px;
+    height: 391px;
+    border: solid 3px #262626;
+    border-radius: 10px;
+}
+.div3{
+    position: relative;
+    width: 346px;
+    height: 391px;
+    border: solid 3px #262626;
+    border-radius: 10px;
+}
+.main-div2{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+.div4{
+    position: relative;
+    width: 346px;
+    height: 391px;
+    border: solid 3px #262626;
+    border-radius: 10px;
+}
+.div5{
+    position: relative;
+    width: 346px;
+    height: 391px;
+    border: solid 3px #262626;
+    border-radius: 10px;
+}
+.div6{
+    position: relative;
+    width: 346px;
+    height: 391px;
+    border: solid 3px #262626;
+    border-radius: 10px;
+}
+.div1-head{
+    color: #C4C4C4;
+    margin: 30px;
+    width: 269px;
+    height: 53px;
+    font-weight: 600px;
+    font-size: 30px;
+    line-height: 45px;
+}
+.div1-cont{
+    margin: 30px;
+    width: 283px;
+    height: 183px;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 22.5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.know-more{
+    background-color: #FECB03;
+    width: 170px;
+    height: 38px;
+    border-radius: 20px;
+    position: relative;
+    left: 150.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.parent-foot{
+    width: 1400px;
+    height: 283px;
+    background-color: #262626;
+    border-radius: 20px;
+}
+.main-foot{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+}
+.foot1{
+    display: flex;
+    flex-direction: column;
+}
+.foot1 h1{
+    width: 335px;
+    height: 53px;
+    font-weight: 700;
+    font-size: 48px;
+}
+.foot1 p{
+    margin: 0;
+    width: 513px;
+    height: 283px;
+    font-weight: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.five{
+    width: 279px;
+    height: 279px;
+    background-color:#FECB03;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+
+}
+.image4{
+    width: 281.91px;
+    height: 281.91px;
+    align-self: center;
+}
+.know{
+    background-color: #FECB03;
+    width: 260px;
+    height: 77px;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+
+}
+.final{
+    font-weight: 600;
+    font-size: 35px;
+    background-color: #FECB03;
+    border: 0;
+}
